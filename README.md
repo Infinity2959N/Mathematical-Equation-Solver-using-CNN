@@ -1,4 +1,6 @@
 # Handwritten Mathematical Equation Solver using CNN
+[NOTE: If the notebook doesn't open, download it and open it locally. There is a possibility the notebook might not open on the github. We are working on the problem and will resolve it as soon as possible.]
+
  This is a project where I have trained a CNN model to identify digits and operators, and using this model made a program to parse and solve entire maths equations.
 
  Please note, the notebook was made on google colab and the dataset and the model are both saved in my google drive, so if you decide to replicate this project, please ensure to edit the code to import and use your own dataset in the right places.
